@@ -5,3 +5,4 @@ arequipe
 pastel
 gelatina
 arroz con leche
+panela

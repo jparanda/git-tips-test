@@ -3,3 +3,6 @@ ron
 aguardiente
 cerveza
 te
+agua
+limonada
+naranjada

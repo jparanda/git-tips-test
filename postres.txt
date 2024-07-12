@@ -2,3 +2,4 @@ gelatina
 chocolatina
 helado
 arequipe
+pastel

@@ -2,4 +2,3 @@ tequila
 ron
 aguardiente
 cerveza
-te

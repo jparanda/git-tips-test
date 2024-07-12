@@ -3,8 +3,3 @@ ron
 aguardiente
 cerveza
 te
-cafe
-capuchino
-mojito
-paloma
-bandera
